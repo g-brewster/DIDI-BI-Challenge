@@ -4,4 +4,4 @@ Repo that contains the solution for DIDI BI Sr Analyst position.
 * The Python Notebook contains Task 4.
 * The PDF file contains Task 4-8.
 
-* Tableau Dashboard: https://public.tableau.com/shared/82YT79KGW?:display_count=n&:origin=viz_share_link
+* Tableau Dashboard: https://public.tableau.com/shared/PWXW5BKMW?:display_count=n&:origin=viz_share_link
